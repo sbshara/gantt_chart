@@ -1,0 +1,21 @@
+{
+    "name": "sbshara/gantt_charts",
+    "description": "Gantt Chart to work with Laravel.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shiblie Bshara",
+            "email": "shiblie@bshara.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "sbshara\\gantt_chart\\": "src/"
+        }
+    }
+}
